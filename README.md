@@ -6,3 +6,4 @@ piyo
 hoge
 huga
 555
+６６６
